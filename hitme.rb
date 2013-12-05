@@ -82,4 +82,3 @@ else
   puts "The dealer has #{dealer_hand.inject(:+)} and #{name} have #{player_hand.inject(:+)}, so you lose"
 
 end
-
